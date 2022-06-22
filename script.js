@@ -15,7 +15,17 @@ let quotes = [
       '"Our best work is the work we find ourselves doing, when there is no obligation to do so."',
       '"You\'re going to die one day and none of this is going to matter."',
 ]
+
+
 function newQuote(){
 let randomNumber = Math.floor(Math.random()*(quotes.length));
-document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
+document.getElementById('quote-display').innerHTML = quotes[randomNumber];
 }
+
+let quoteBtn = document.getElementById("quote-btn");
+quoteBtn.addEventListener("click", newQuote);
+
+
+
+
+

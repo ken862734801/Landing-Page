@@ -4,7 +4,7 @@ Revisiting a Naval Ravikant inspired landing page I made for the odin project.
 The aim of the project was to use HTML, CSS, and some Javascript to create a mock landing page.
 I went back and used flex to make the website more responsive. 
 
-Used javascript to add a quote generator. 
+Javascript used to add a quote generator. 
 Will be adding media queries to make it mobile responsive in the future.
 
 ![Alt text](https://i.imgur.com/qaTZUXm.png)

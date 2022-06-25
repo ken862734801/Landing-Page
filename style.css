@@ -12,6 +12,12 @@ nav{
     display:flex;
     align-items:center;
 }
+.topnav .icon{
+    display:none;
+}
+.fa-bars{
+    display:none;
+}
 .logo:hover{
     cursor:pointer;
 }
@@ -28,6 +34,7 @@ li:hover{
 }
 
 #home-section{
+    padding-top: 1em;
     background-color: #1f2937;
 }
 .logo{
@@ -62,7 +69,7 @@ h1, p ,figcaption, li {
     min-width: 400px;
 }
 .who-is{
-    padding-left: 2em;
+    padding-left: 3em;
     padding-bottom: 8px;
 }
 .about-info{
@@ -84,6 +91,7 @@ h1, p ,figcaption, li {
 #learn-more:hover{
     cursor: pointer;
 }
+
 .portrait{
     width: 100%;
     max-width: 450px;
@@ -203,4 +211,26 @@ figcaption{
 }
 #sign-up:hover{
     cursor:pointer;
+}
+@media screen and (max-width: 600px){
+    .about-container{
+        margin-left:3px;
+    }
+    .about-info{
+        text-align: center;
+        font-size:1.1em;
+    }
+    .who-is{
+        padding-left:42px;
+    }
+    nav{
+        margin-left:5px;
+        width: 90%;
+    }
+    .link{
+        display:none;
+    }
+    .fa-bars{
+        display:flex;
+    }
 }

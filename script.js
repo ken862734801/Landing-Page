@@ -19,13 +19,8 @@ let quotes = [
 
 function newQuote(){
 let randomNumber = Math.floor(Math.random()*(quotes.length));
-document.getElementById('quote-display').innerHTML = quotes[randomNumber];
+document.getElementById('quote-display').textContent = quotes[randomNumber];
 }
 
 let quoteBtn = document.getElementById("quote-btn");
 quoteBtn.addEventListener("click", newQuote);
-
-
-
-
-

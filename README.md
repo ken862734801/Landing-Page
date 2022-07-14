@@ -10,8 +10,8 @@ https://ken862734801.github.io/Landing-Page/
 View on mobile.
 
 ## Summary
-Revisiting a Naval Ravikant inspired landing page I made for the odin project.
-The aim of the assignment was to use HTML and CSS to create a mock landing page based off of a template given by the Odin Project curriculum.
+Revisiting a Naval Ravikant inspired landing page I made for the Odin Project.
+The aim of the assignment was to use HTML and CSS to create a mock landing page based off of a template provided by the Odin Project curriculum.
 
 [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 

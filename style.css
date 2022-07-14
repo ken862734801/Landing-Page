@@ -82,7 +82,7 @@ section{
     padding:20px;
     border:1px solid black;
     border-right: 0px;
-    border-radius:24px;
+    border-radius:16px;
     background-color: white;
     background-image:url("https://cdn1.vectorstock.com/i/1000x1000/75/35/watercolor-paint-splashes-in-pastel-colors-vector-21457535.jpg");
 }
@@ -101,7 +101,7 @@ section{
     width:100%;
 
     border:1px solid black;
-    border-radius:24px;
+    border-radius:16px;
     background-color: white;
     background-image:url("https://cdn1.vectorstock.com/i/1000x1000/75/35/watercolor-paint-splashes-in-pastel-colors-vector-21457535.jpg");
 
@@ -114,7 +114,7 @@ section{
 .podcast{
     border:1px solid black;
     margin-top:-1px;
-    border-radius:24px;
+    border-radius:16px;
     text-align: left;
     padding:12px;
     padding-top:15px;
@@ -184,7 +184,7 @@ section{
 .quote{
     border:1px solid black;
     margin-top:-1px;
-    border-radius:24px;
+    border-radius:16px;
     text-align: left;
     padding:12px;
     padding-top:20px;
@@ -245,8 +245,48 @@ button:hover{
     cursor:pointer;
     text-decoration: underline;
 }
+.contact{
+    border:1px solid black;
+    margin-top:-1px;
+    border-radius:16px;
+    text-align: left;
+    padding:12px;
+    padding-top:15px;  
+    padding-bottom:25px;
+}
+.contact-title{
+    font-size:1.75em;
+}
+.contact-container{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    color:white;
+    width:50%;
+    margin: 0 auto;
+    padding:20px;
+    border-radius:16px;
+    min-width:325px;
+}
+.contact-info{
+    width:60%;
+}
 
-
+.contact-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:40%;
+}
+.contact-btn > button{
+    border:1px solid white;
+    border-radius:16px;
+    color:white;
+    background-color: black;
+    padding:8px;
+    width:40%;
+    min-width:80px;
+}
 
 @media screen and (max-width: 660px){
 
@@ -323,5 +363,11 @@ button:hover{
     }
     .btn-container > button{
         font-size:.80em;
+    }
+    .contact-info > h3{
+        font-size:0.95em;
+    }
+    .contact-info > p{
+        font-size:0.90em;
     }
 }

@@ -18,6 +18,9 @@ The aim of the project was to use HTML and CSS to create a mock landing page bas
 CSS grid, Flex, and Media queries were the main concepts used for this project. Javascript was also used to create a random quote generator. 
 
 ## Resources
+Canva was used to create the podcast episode covers. 
+https://www.canva.com/
+
 These UI templates served as inspiration for the design. 
 
 https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png

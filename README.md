@@ -11,11 +11,11 @@ View on mobile.
 
 ## Summary
 Revisiting a Naval Ravikant inspired landing page I made for the odin project.
-The aim of the project was to use HTML and CSS to create a mock landing page based off of a template given by the Odin Project curriculum.
+The aim of the assignment was to use HTML and CSS to create a mock landing page based off of a template given by the Odin Project curriculum.
 
 [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
-CSS grid, Flex, and Media queries were the main concepts used for this project. Javascript was also used to create a random quote generator. 
+CSS grid, Flex, and Media queries were the main concepts used for this assignment. Javascript was also used to create a random quote generator. 
 
 ## Resources
 Canva was used to create the podcast episode covers. 

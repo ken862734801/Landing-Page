@@ -6,7 +6,7 @@ https://ken862734801.github.io/Landing-Page/
 ## Preview 
 ![Alt text](https://i.imgur.com/hIJgHsu.png)
 
-<img src="https://i.imgur.com/peIxVhs.png" width="414" height="896">
+<img src="https://i.imgur.com/peIxVhs.png" width="420" height="896">
 View on mobile.
 
 ## Summary
